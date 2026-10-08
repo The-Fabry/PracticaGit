@@ -20,4 +20,8 @@ public class PracticaGit {
     public void primero(){
         //samu
     }
+    
+    public void segund0(){
+        //resta
+    }
 }
